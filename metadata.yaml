@@ -1,5 +1,8 @@
 _repo: Amis_58259
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58259-h/images/cover.jpg
 creator:
   author:
     agent_name: Haraucourt, Edmond
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47863'
     url: http://www.gutenberg.org/2009/agents/47863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58259#Amis
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Séduction et libertinage
